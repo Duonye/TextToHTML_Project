@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Owner\\Documents\\AD_Project3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C94EC7-6E0F-4736-B0CD-67A3C3271FB6}|Markup\\Markup.vcxproj|C:\\Users\\Owner\\Documents\\AD_Project3\\Markup\\Markup_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B8C94EC7-6E0F-4736-B0CD-67A3C3271FB6}|Markup\\Markup.vcxproj|solutionrelative:Markup\\Markup_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C94EC7-6E0F-4736-B0CD-67A3C3271FB6}|Markup\\Markup.vcxproj|C:\\Users\\Owner\\Documents\\AD_Project3\\Markup\\Markup_function.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B8C94EC7-6E0F-4736-B0CD-67A3C3271FB6}|Markup\\Markup.vcxproj|solutionrelative:Markup\\Markup_function.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C94EC7-6E0F-4736-B0CD-67A3C3271FB6}|Markup\\Markup.vcxproj|C:\\Users\\Owner\\Documents\\AD_Project3\\Markup\\markup_header.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B8C94EC7-6E0F-4736-B0CD-67A3C3271FB6}|Markup\\Markup.vcxproj|solutionrelative:Markup\\markup_header.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 105,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Markup_function.cpp",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\AD_Project3\\Markup\\Markup_function.cpp",
+              "RelativeDocumentMoniker": "Markup\\Markup_function.cpp",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\AD_Project3\\Markup\\Markup_function.cpp",
+              "RelativeToolTip": "Markup\\Markup_function.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-14T18:19:35.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "markup_header.hpp",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\AD_Project3\\Markup\\markup_header.hpp",
+              "RelativeDocumentMoniker": "Markup\\markup_header.hpp",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\AD_Project3\\Markup\\markup_header.hpp",
+              "RelativeToolTip": "Markup\\markup_header.hpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-14T18:19:35.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Markup_main.cpp",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\AD_Project3\\Markup\\Markup_main.cpp",
+              "RelativeDocumentMoniker": "Markup\\Markup_main.cpp",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\AD_Project3\\Markup\\Markup_main.cpp",
+              "RelativeToolTip": "Markup\\Markup_main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-14T18:19:35.962Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
